@@ -6,4 +6,4 @@ TEMPLATE = app
 
 # HEADERS += my_database.h
 SOURCES += main.cpp
-RESOURCES = qml.qrc
+RESOURCES = main.qml.qrc
